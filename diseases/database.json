@@ -1,0 +1,1747 @@
+[{
+  "id": "CAN",
+  "color": "rgb(181,221,235)",
+  "region": "AMR A",
+  "All Hazards": 35,
+  "Chemicals and Toxins": 0.4,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 1,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "CUB",
+  "color": "rgb(181,221,235)",
+  "region": "AMR A",
+  "All Hazards": 35,
+  "Chemicals and Toxins": 0.4,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 1,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "USA",
+  "color": "rgb(181,221,235)",
+  "region": "AMR A",
+  "All Hazards": 35,
+  "Chemicals and Toxins": 0.4,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 1,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ATG",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "ARG",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "BHS",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "BRB",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "BLZ",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "BRA",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "CHL",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "COL",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "CRI",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "DMA",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "DOM",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "SLV",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "GRD",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "GUY",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "HND",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "JAM",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "MEX",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "PAN",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "PRY",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "KNA",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "LCA",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "VCT",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "SUR",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "TTO",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "URY",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "VEN",
+  "color": "rgb(61,91,166)",
+  "region": "AMR B",
+  "All Hazards": 140,
+  "Chemicals and Toxins": 3,
+  "Diarrheal Disease Agents": 60,
+  "Helminths": 36,
+  "Invasive Infectious Disease Agents": 38
+}, {
+  "id": "BOL",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "ECU",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "GTM",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "HTI",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "NIC",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "PER",
+  "color": "rgb(255,246,181)",
+  "region": "AMR D",
+  "All Hazards": 315,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 72,
+  "Helminths": 185,
+  "Invasive Infectious Disease Agents": 49
+}, {
+  "id": "DZA",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "AGO",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "BEN",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "BFA",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "CMR",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "CPV",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "TCD",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "COM",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GNQ",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GAB",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GMB",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GHA",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GIN",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "GNB",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "LBR",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "MDG",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "MLI",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "MRT",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "MUS",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "NER",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "NGA",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "STP",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "SEN",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "SYC",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "SLE",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "TGO",
+  "color": "rgb(163,0,35)",
+  "region": "AFR D",
+  "All Hazards": 1276,
+  "Chemicals and Toxins": 30,
+  "Diarrheal Disease Agents": 889,
+  "Helminths": 186,
+  "Invasive Infectious Disease Agents": 146
+}, {
+  "id": "BWA",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "BDI",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "CAF",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "COG",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "CIV",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "COD",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "ERI",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "ETH",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "KEN",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "LSO",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "MWI",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "MOZ",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "NAM",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "RWA",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "ZAF",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "SWZ",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "UGA",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "TZA",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "ZMB",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "ZWE",
+  "color": "rgb(191,27,38)",
+  "region": "AFR E",
+  "All Hazards": 1179,
+  "Chemicals and Toxins": 7,
+  "Diarrheal Disease Agents": 824,
+  "Helminths": 184,
+  "Invasive Infectious Disease Agents": 147
+}, {
+  "id": "BHR",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "IRN",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "JOR",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "KWT",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "LBN",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "LBY",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "OMN",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "QAT",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "SAU",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "SYR",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "TUN",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "ARE",
+  "color": "rgb(252,220,157)",
+  "region": "EMR B",
+  "All Hazards": 362,
+  "Chemicals and Toxins": 0.8,
+  "Diarrheal Disease Agents": 277,
+  "Helminths": 5,
+  "Invasive Infectious Disease Agents": 73
+}, {
+  "id": "AFG",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "DJI",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "EGY",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "IRQ",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "MAR",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "PAK",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "SOM",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "SSD",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "SDN",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "YEM",
+  "color": "rgb(250,157,90)",
+  "region": "EMR D",
+  "All Hazards": 571,
+  "Chemicals and Toxins": 9,
+  "Diarrheal Disease Agents": 393,
+  "Helminths": 21,
+  "Invasive Infectious Disease Agents": 137
+}, {
+  "id": "AND",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "AUT",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "BEL",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "HRV",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "CYP",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "CZE",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "DNK",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "FIN",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "FRA",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "DEU",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "GRC",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ISL",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "IRL",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ISR",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ITA",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "LUX",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "MLT",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "MCO",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "NLD",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "NOR",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "PRT",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "SMR",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "SVN",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ESP",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "SWE",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "CHE",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "GBR",
+  "color": "rgb(127,181,212)",
+  "region": "EUR A",
+  "All Hazards": 41,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 28,
+  "Helminths": 0.4,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "ALB",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "ARM",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "AZE",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "BIH",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "BGR",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "GEO",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "KGZ",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "MNE",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "POL",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "ROU",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "SRB",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "SVK",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "TJK",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "MKD",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "TUR",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "TKM",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "UZB",
+  "color": "rgb(85,137,189)",
+  "region": "EUR B",
+  "All Hazards": 52,
+  "Chemicals and Toxins": 0.9,
+  "Diarrheal Disease Agents": 25,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 19
+}, {
+  "id": "BLR",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "EST",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "HUN",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "KAZ",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "LVA",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "LTU",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "MDA",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "RUS",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "UKR",
+  "color": "rgb(103,158,199)",
+  "region": "EUR C",
+  "All Hazards": 49,
+  "Chemicals and Toxins": 2,
+  "Diarrheal Disease Agents": 24,
+  "Helminths": 6,
+  "Invasive Infectious Disease Agents": 16
+}, {
+  "id": "IDN",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR B",
+  "All Hazards": 685,
+  "Chemicals and Toxins": 20,
+  "Diarrheal Disease Agents": 330,
+  "Helminths": 52,
+  "Invasive Infectious Disease Agents": 272
+}, {
+  "id": "LKA",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR B",
+  "All Hazards": 685,
+  "Chemicals and Toxins": 20,
+  "Diarrheal Disease Agents": 330,
+  "Helminths": 52,
+  "Invasive Infectious Disease Agents": 272
+}, {
+  "id": "THA",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR B",
+  "All Hazards": 685,
+  "Chemicals and Toxins": 20,
+  "Diarrheal Disease Agents": 330,
+  "Helminths": 52,
+  "Invasive Infectious Disease Agents": 272
+}, {
+  "id": "BGD",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "BTN",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "PRK",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "IND",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "MDV",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "MMR",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "NPL",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "TLS",
+  "color": "rgb(230,78,55)",
+  "region": "SEAR D",
+  "All Hazards": 711,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 380,
+  "Helminths": 60,
+  "Invasive Infectious Disease Agents": 244
+}, {
+  "id": "AUS",
+  "color": "rgb(158,205,219)",
+  "region": "WPR A",
+  "All Hazards": 36,
+  "Chemicals and Toxins": 0.3,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 2,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "BRN",
+  "color": "rgb(158,205,219)",
+  "region": "WPR A",
+  "All Hazards": 36,
+  "Chemicals and Toxins": 0.3,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 2,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "JPN",
+  "color": "rgb(158,205,219)",
+  "region": "WPR A",
+  "All Hazards": 36,
+  "Chemicals and Toxins": 0.3,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 2,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "NZL",
+  "color": "rgb(158,205,219)",
+  "region": "WPR A",
+  "All Hazards": 36,
+  "Chemicals and Toxins": 0.3,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 2,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "SGP",
+  "color": "rgb(158,205,219)",
+  "region": "WPR A",
+  "All Hazards": 36,
+  "Chemicals and Toxins": 0.3,
+  "Diarrheal Disease Agents": 23,
+  "Helminths": 2,
+  "Invasive Infectious Disease Agents": 10
+}, {
+  "id": "KHM",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "CHN",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "COK",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "FJI",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "KIR",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "LAO",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "MYS",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "MHL",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "FSM",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "MNG",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "NRU",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "NIU",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "PLW",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "PNG",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "PHL",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "KOR",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "WSM",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "SLB",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "TON",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "TUV",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "VUT",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}, {
+  "id": "VNM",
+  "color": "rgb(58,82,161)",
+  "region": "WPR B",
+  "All Hazards": 293,
+  "Chemicals and Toxins": 18,
+  "Diarrheal Disease Agents": 41,
+  "Helminths": 162,
+  "Invasive Infectious Disease Agents": 65
+}]

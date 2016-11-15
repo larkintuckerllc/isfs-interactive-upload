@@ -1,0 +1,690 @@
+[
+{
+  "id": "ZAF",
+  "color": "rgb(22,0,0)"
+},
+{
+  "id": "BRN",
+  "color": "rgb(22,0,0)"
+},
+{
+  "id": "AZE",
+  "color": "rgb(24,0,0)"
+},
+{
+  "id": "GHA",
+  "color": "rgb(26,0,0)"
+},
+{
+  "id": "KAZ",
+  "color": "rgb(26,0,0)"
+},
+{
+  "id": "KWT",
+  "color": "rgb(26,0,0)"
+},
+{
+  "id": "DZA",
+  "color": "rgb(27,0,0)"
+},
+{
+  "id": "MYS",
+  "color": "rgb(27,0,0)"
+},
+{
+  "id": "KIR",
+  "color": "rgb(28,0,0)"
+},
+{
+  "id": "MLI",
+  "color": "rgb(29,0,0)"
+},
+{
+  "id": "GAB",
+  "color": "rgb(30,0,0)"
+},
+{
+  "id": "WSM",
+  "color": "rgb(31,0,0)"
+},
+{
+  "id": "TKM",
+  "color": "rgb(33,0,0)"
+},
+{
+  "id": "CHL",
+  "color": "rgb(33,0,0)"
+},
+{
+  "id": "ARE",
+  "color": "rgb(33,0,0)"
+},
+{
+  "id": "MAR",
+  "color": "rgb(35,0,0)"
+},
+{
+  "id": "BRB",
+  "color": "rgb(35,0,0)"
+},
+{
+  "id": "MEX",
+  "color": "rgb(36,0,0)"
+},
+{
+  "id": "GMB",
+  "color": "rgb(37,0,0)"
+},
+{
+  "id": "FJI",
+  "color": "rgb(39,0,0)"
+},
+{
+  "id": "URY",
+  "color": "rgb(39,0,0)"
+},
+{
+  "id": "LBN",
+  "color": "rgb(39,0,0)"
+},
+{
+  "id": "MRT",
+  "color": "rgb(41,0,0)"
+},
+{
+  "id": "IRN",
+  "color": "rgb(42,0,0)"
+},
+{
+  "id": "MUS",
+  "color": "rgb(43,0,0)"
+},
+{
+  "id": "OMN",
+  "color": "rgb(43,0,0)"
+},
+{
+  "id": "UZB",
+  "color": "rgb(43,0,0)"
+},
+{
+  "id": "VUT",
+  "color": "rgb(45,0,0)"
+},
+{
+  "id": "MDV",
+  "color": "rgb(47,0,0)"
+},
+{
+  "id": "NGA",
+  "color": "rgb(48,0,0)"
+},
+{
+  "id": "KGZ",
+  "color": "rgb(49,0,0)"
+},
+{
+  "id": "BLZ",
+  "color": "rgb(49,0,0)"
+},
+{
+  "id": "STP",
+  "color": "rgb(50,0,0)"
+},
+{
+  "id": "CRI",
+  "color": "rgb(51,0,0)"
+},
+{
+  "id": "VCT",
+  "color": "rgb(54,0,0)"
+},
+{
+  "id": "BEN",
+  "color": "rgb(55,0,0)"
+},
+{
+  "id": "NPL",
+  "color": "rgb(56,0,0)"
+},
+{
+  "id": "ARM",
+  "color": "rgb(57,0,0)"
+},
+{
+  "id": "IDN",
+  "color": "rgb(59,0,0)"
+},
+{
+  "id": "NER",
+  "color": "rgb(62,0,0)"
+},
+{
+  "id": "TTO",
+  "color": "rgb(63,0,0)"
+},
+{
+  "id": "PER",
+  "color": "rgb(64,0,0)"
+},
+{
+  "id": "SUR",
+  "color": "rgb(67,0,0)"
+},
+{
+  "id": "THA",
+  "color": "rgb(69,0,0)"
+},
+{
+  "id": "GEO",
+  "color": "rgb(69,0,0)"
+},
+{
+  "id": "JAM",
+  "color": "rgb(69,0,0)"
+},
+{
+  "id": "COL",
+  "color": "rgb(70,0,0)"
+},
+{
+  "id": "CHN",
+  "color": "rgb(70,0,0)"
+},
+{
+  "id": "CMR",
+  "color": "rgb(70,0,0)"
+},
+{
+  "id": "PAN",
+  "color": "rgb(73,0,0)"
+},
+{
+  "id": "CPV",
+  "color": "rgb(73,0,0)"
+},
+{
+  "id": "SEN",
+  "color": "rgb(73,0,0)"
+},
+{
+  "id": "SLB",
+  "color": "rgb(76,0,0)"
+},
+{
+  "id": "LSO",
+  "color": "rgb(76,0,0)"
+},
+{
+  "id": "CIV",
+  "color": "rgb(78,0,0)"
+},
+{
+  "id": "GUY",
+  "color": "rgb(78,0,0)"
+},
+{
+  "id": "HND",
+  "color": "rgb(79,0,0)"
+},
+{
+  "id": "VNM",
+  "color": "rgb(80,0,0)"
+},
+{
+  "id": "PRY",
+  "color": "rgb(81,0,0)"
+},
+{
+  "id": "TGO",
+  "color": "rgb(82,0,0)"
+},
+{
+  "id": "ECU",
+  "color": "rgb(86,0,0)"
+},
+{
+  "id": "SLV",
+  "color": "rgb(88,0,0)"
+},
+{
+  "id": "PHL",
+  "color": "rgb(90,0,0)"
+},
+{
+  "id": "AGO",
+  "color": "rgb(91,0,0)"
+},
+{
+  "id": "DOM",
+  "color": "rgb(92,0,0)"
+},
+{
+  "id": "GTM",
+  "color": "rgb(95,0,0)"
+},
+{
+  "id": "GIN",
+  "color": "rgb(100,0,0)"
+},
+{
+  "id": "KHM",
+  "color": "rgb(101,0,0)"
+},
+{
+  "id": "MMR",
+  "color": "rgb(103,0,0)"
+},
+{
+  "id": "IND",
+  "color": "rgb(103,0,0)"
+},
+{
+  "id": "NIC",
+  "color": "rgb(104,0,0)"
+},
+{
+  "id": "DJI",
+  "color": "rgb(107,0,0)"
+},
+{
+  "id": "BFA",
+  "color": "rgb(109,0,0)"
+},
+{
+  "id": "BGD",
+  "color": "rgb(113,0,0)"
+},
+{
+  "id": "BOL",
+  "color": "rgb(113,0,0)"
+},
+{
+  "id": "MWI",
+  "color": "rgb(119,0,0)"
+},
+{
+  "id": "IRQ",
+  "color": "rgb(123,0,0)"
+},
+{
+  "id": "LAO",
+  "color": "rgb(125,0,0)"
+},
+{
+  "id": "LKA",
+  "color": "rgb(127,0,0)"
+},
+{
+  "id": "PAK",
+  "color": "rgb(129,0,0)"
+},
+{
+  "id": "SLE",
+  "color": "rgb(129,0,0)"
+},
+{
+  "id": "GNB",
+  "color": "rgb(130,0,0)"
+},
+{
+  "id": "MNG",
+  "color": "rgb(136,0,0)"
+},
+{
+  "id": "KEN",
+  "color": "rgb(137,0,0)"
+},
+{
+  "id": "UGA",
+  "color": "rgb(140,0,0)"
+},
+{
+  "id": "MOZ",
+  "color": "rgb(141,0,0)"
+},
+{
+  "id": "AFG",
+  "color": "rgb(150,0,0)"
+},
+{
+  "id": "TLS",
+  "color": "rgb(151,0,0)"
+},
+{
+  "id": "YEM",
+  "color": "rgb(151,0,0)"
+},
+{
+  "id": "BWA",
+  "color": "rgb(156,0,0)"
+},
+{
+  "id": "SWZ",
+  "color": "rgb(160,0,0)"
+},
+{
+  "id": "LBR",
+  "color": "rgb(167,0,0)"
+},
+{
+  "id": "TZA",
+  "color": "rgb(168,0,0)"
+},
+{
+  "id": "COG",
+  "color": "rgb(170,0,0)"
+},
+{
+  "id": "RWA",
+  "color": "rgb(175,0,0)"
+},
+{
+  "id": "ETH",
+  "color": "rgb(180,0,0)"
+},
+{
+  "id": "MDG",
+  "color": "rgb(183,0,0)"
+},
+{
+  "id": "ZWE",
+  "color": "rgb(185,0,0)"
+},
+{
+  "id": "TCD",
+  "color": "rgb(185,0,0)"
+},
+{
+  "id": "TJK",
+  "color": "rgb(189,0,0)"
+},
+{
+  "id": "CAF",
+  "color": "rgb(234,0,0)"
+},
+{
+  "id": "ZMB",
+  "color": "rgb(234,0,0)"
+},
+{
+  "id": "NAM",
+  "color": "rgb(236,0,0)"
+},
+{
+  "id": "PRK",
+  "color": "rgb(242,0,0)"
+},
+{
+  "id": "HTI",
+  "color": "rgb(251,0,0)"
+},
+{
+  "id": "ALB",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "AND",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ARG",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "AUS",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "AUT",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BMU",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BRA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BGR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "CAN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "CUB",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "CYP",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "DNK",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BLR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "EGY",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "EST",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "FRO",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "FIN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "FRA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "DEU",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BIH",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "GIB",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "GRC",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "GRL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "VAT",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "HUN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "HRV",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ISL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "IRL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ISR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ITA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "JPN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "JOR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "KOR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "LVA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "LIE",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "LTU",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "MLT",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "MCO",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "MDA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "NLD",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "MKD",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "NZL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "NOR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "CZE",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "POL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "PRT",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ROU",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "RUS",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SRB",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SPM",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SMR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SAU",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SVN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SVK",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "ESP",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SWE",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "CHE",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "TUN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "TUR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "GBR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "UKR",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "USA",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "VEN",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "BEL",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "LUX",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "SRB",
+  "color": "rgb(21,0,0)"
+},
+{
+  "id": "MNE",
+  "color": "rgb(21,0,0)"
+}
+]

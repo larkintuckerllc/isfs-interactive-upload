@@ -1,0 +1,9 @@
+[{
+  "id": "seafood_fra",
+  "commodity": "seafood",
+  "latlng": [47.256912, 2.857164]
+}, {
+  "id": "seafood_deu",
+  "commodity": "seafood",
+  "latlng": [50.268322, 10.327867]
+}]

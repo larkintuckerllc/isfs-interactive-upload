@@ -1,0 +1,770 @@
+[
+  {
+    "id": "TLS",
+    "color": "rgb(11,0,0)"
+  },
+  {
+    "id": "PRK",
+    "color": "rgb(12,0,0)"
+  },
+  {
+    "id": "BDI",
+    "color": "rgb(13,0,0)"
+  },
+  {
+    "id": "AFG",
+    "color": "rgb(14,0,0)"
+  },
+  {
+    "id": "MMR",
+    "color": "rgb(14,0,0)"
+  },
+  {
+    "id": "KHM",
+    "color": "rgb(16,0,0)"
+  },
+  {
+    "id": "JPN",
+    "color": "rgb(16,0,0)"
+  },
+  {
+    "id": "NPL",
+    "color": "rgb(16,0,0)"
+  },
+  {
+    "id": "LAO",
+    "color": "rgb(17,0,0)"
+  },
+  {
+    "id": "BGD",
+    "color": "rgb(18,0,0)"
+  },
+  {
+    "id": "VNM",
+    "color": "rgb(18,0,0)"
+  },
+  {
+    "id": "ETH",
+    "color": "rgb(20,0,0)"
+  },
+  {
+    "id": "RWA",
+    "color": "rgb(20,0,0)"
+  },
+  {
+    "id": "ERI",
+    "color": "rgb(20,0,0)"
+  },
+  {
+    "id": "NER",
+    "color": "rgb(21,0,0)"
+  },
+  {
+    "id": "COD",
+    "color": "rgb(22,0,0)"
+  },
+  {
+    "id": "SOM",
+    "color": "rgb(23,0,0)"
+  },
+  {
+    "id": "IND",
+    "color": "rgb(24,0,0)"
+  },
+  {
+    "id": "UGA",
+    "color": "rgb(24,0,0)"
+  },
+  {
+    "id": "CAF",
+    "color": "rgb(25,0,0)"
+  },
+  {
+    "id": "PHL",
+    "color": "rgb(25,0,0)"
+  },
+  {
+    "id": "MWI",
+    "color": "rgb(26,0,0)"
+  },
+  {
+    "id": "MOZ",
+    "color": "rgb(26,0,0)"
+  },
+  {
+    "id": "MDG",
+    "color": "rgb(27,0,0)"
+  },
+  {
+    "id": "PAK",
+    "color": "rgb(27,0,0)"
+  },
+  {
+    "id": "IDN",
+    "color": "rgb(28,0,0)"
+  },
+  {
+    "id": "KOR",
+    "color": "rgb(29,0,0)"
+  },
+  {
+    "id": "SGP",
+    "color": "rgb(31,0,0)"
+  },
+  {
+    "id": "BFA",
+    "color": "rgb(31,0,0)"
+  },
+  {
+    "id": "LKA",
+    "color": "rgb(32,0,0)"
+  },
+  {
+    "id": "COM",
+    "color": "rgb(33,0,0)"
+  },
+  {
+    "id": "LBR",
+    "color": "rgb(33,0,0)"
+  },
+  {
+    "id": "BTN",
+    "color": "rgb(33,0,0)"
+  },
+  {
+    "id": "GIN",
+    "color": "rgb(34,0,0)"
+  },
+  {
+    "id": "MLI",
+    "color": "rgb(34,0,0)"
+  },
+  {
+    "id": "CHN",
+    "color": "rgb(34,0,0)"
+  },
+  {
+    "id": "KEN",
+    "color": "rgb(35,0,0)"
+  },
+  {
+    "id": "TZA",
+    "color": "rgb(35,0,0)"
+  },
+  {
+    "id": "GNB",
+    "color": "rgb(36,0,0)"
+  },
+  {
+    "id": "SSD",
+    "color": "rgb(37,0,0)"
+  },
+  {
+    "id": "SDN",
+    "color": "rgb(37,0,0)"
+  },
+  {
+    "id": "TGO",
+    "color": "rgb(37,0,0)"
+  },
+  {
+    "id": "SLE",
+    "color": "rgb(38,0,0)"
+  },
+  {
+    "id": "MDV",
+    "color": "rgb(39,0,0)"
+  },
+  {
+    "id": "TCD",
+    "color": "rgb(40,0,0)"
+  },
+  {
+    "id": "THA",
+    "color": "rgb(42,0,0)"
+  },
+  {
+    "id": "ZMB",
+    "color": "rgb(44,0,0)"
+  },
+  {
+    "id": "CIV",
+    "color": "rgb(46,0,0)"
+  },
+  {
+    "id": "BEN",
+    "color": "rgb(46,0,0)"
+  },
+  {
+    "id": "DJI",
+    "color": "rgb(48,0,0)"
+  },
+  {
+    "id": "MRT",
+    "color": "rgb(48,0,0)"
+  },
+  {
+    "id": "SEN",
+    "color": "rgb(49,0,0)"
+  },
+  {
+    "id": "AGO",
+    "color": "rgb(51,0,0)"
+  },
+  {
+    "id": "ZWE",
+    "color": "rgb(52,0,0)"
+  },
+  {
+    "id": "GMB",
+    "color": "rgb(54,0,0)"
+  },
+  {
+    "id": "COG",
+    "color": "rgb(55,0,0)"
+  },
+  {
+    "id": "NGA",
+    "color": "rgb(55,0,0)"
+  },
+  {
+    "id": "CMR",
+    "color": "rgb(57,0,0)"
+  },
+  {
+    "id": "HTI",
+    "color": "rgb(59,0,0)"
+  },
+  {
+    "id": "GHA",
+    "color": "rgb(61,0,0)"
+  },
+  {
+    "id": "STP",
+    "color": "rgb(61,0,0)"
+  },
+  {
+    "id": "CPV",
+    "color": "rgb(65,0,0)"
+  },
+  {
+    "id": "MYS",
+    "color": "rgb(66,0,0)"
+  },
+  {
+    "id": "TJK",
+    "color": "rgb(68,0,0)"
+  },
+  {
+    "id": "LSO",
+    "color": "rgb(71,0,0)"
+  },
+  {
+    "id": "KGZ",
+    "color": "rgb(72,0,0)"
+  },
+  {
+    "id": "MDA",
+    "color": "rgb(74,0,0)"
+  },
+  {
+    "id": "UZB",
+    "color": "rgb(77,0,0)"
+  },
+  {
+    "id": "PRY",
+    "color": "rgb(81,0,0)"
+  },
+  {
+    "id": "MNG",
+    "color": "rgb(83,0,0)"
+  },
+  {
+    "id": "BOL",
+    "color": "rgb(85,0,0)"
+  },
+  {
+    "id": "NIC",
+    "color": "rgb(85,0,0)"
+  },
+  {
+    "id": "YEM",
+    "color": "rgb(86,0,0)"
+  },
+  {
+    "id": "GNQ",
+    "color": "rgb(87,0,0)"
+  },
+  {
+    "id": "ALB",
+    "color": "rgb(88,0,0)"
+  },
+  {
+    "id": "GAB",
+    "color": "rgb(88,0,0)"
+  },
+  {
+    "id": "SWZ",
+    "color": "rgb(88,0,0)"
+  },
+  {
+    "id": "BIH",
+    "color": "rgb(89,0,0)"
+  },
+  {
+    "id": "MUS",
+    "color": "rgb(89,0,0)"
+  },
+  {
+    "id": "BRN",
+    "color": "rgb(90,0,0)"
+  },
+  {
+    "id": "HND",
+    "color": "rgb(91,0,0)"
+  },
+  {
+    "id": "AUT",
+    "color": "rgb(92,0,0)"
+  },
+  {
+    "id": "GTM",
+    "color": "rgb(93,0,0)"
+  },
+  {
+    "id": "ECU",
+    "color": "rgb(93,0,0)"
+  },
+  {
+    "id": "NAM",
+    "color": "rgb(94,0,0)"
+  },
+  {
+    "id": "DNK",
+    "color": "rgb(96,0,0)"
+  },
+  {
+    "id": "CHE",
+    "color": "rgb(97,0,0)"
+  },
+  {
+    "id": "ARM",
+    "color": "rgb(97,0,0)"
+  },
+  {
+    "id": "SRB",
+    "color": "rgb(97,0,0)"
+  },
+  {
+    "id": "MKD",
+    "color": "rgb(98,0,0)"
+  },
+  {
+    "id": "NLD",
+    "color": "rgb(99,0,0)"
+  },
+  {
+    "id": "BRA",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "MNE",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "DEU",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "PRT",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "TKM",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "UKR",
+    "color": "rgb(100,0,0)"
+  },
+  {
+    "id": "BEL",
+    "color": "rgb(101,0,0)"
+  },
+  {
+    "id": "SWE",
+    "color": "rgb(102,0,0)"
+  },
+  {
+    "id": "FIN",
+    "color": "rgb(103,0,0)"
+  },
+  {
+    "id": "GEO",
+    "color": "rgb(104,0,0)"
+  },
+  {
+    "id": "COL",
+    "color": "rgb(105,0,0)"
+  },
+  {
+    "id": "ITA",
+    "color": "rgb(105,0,0)"
+  },
+  {
+    "id": "PER",
+    "color": "rgb(105,0,0)"
+  },
+  {
+    "id": "ROU",
+    "color": "rgb(108,0,0)"
+  },
+  {
+    "id": "SLV",
+    "color": "rgb(109,0,0)"
+  },
+  {
+    "id": "MAR",
+    "color": "rgb(111,0,0)"
+  },
+  {
+    "id": "BWA",
+    "color": "rgb(112,0,0)"
+  },
+  {
+    "id": "AZE",
+    "color": "rgb(112,0,0)"
+  },
+  {
+    "id": "BLZ",
+    "color": "rgb(112,0,0)"
+  },
+  {
+    "id": "EST",
+    "color": "rgb(113,0,0)"
+  },
+  {
+    "id": "ISL",
+    "color": "rgb(114,0,0)"
+  },
+  {
+    "id": "GRC",
+    "color": "rgb(114,0,0)"
+  },
+  {
+    "id": "GUY",
+    "color": "rgb(114,0,0)"
+  },
+  {
+    "id": "LUX",
+    "color": "rgb(115,0,0)"
+  },
+  {
+    "id": "NOR",
+    "color": "rgb(115,0,0)"
+  },
+  {
+    "id": "BGR",
+    "color": "rgb(116,0,0)"
+  },
+  {
+    "id": "HRV",
+    "color": "rgb(116,0,0)"
+  },
+  {
+    "id": "BLR",
+    "color": "rgb(117,0,0)"
+  },
+  {
+    "id": "KAZ",
+    "color": "rgb(117,0,0)"
+  },
+  {
+    "id": "SYR",
+    "color": "rgb(117,0,0)"
+  },
+  {
+    "id": "LVA",
+    "color": "rgb(118,0,0)"
+  },
+  {
+    "id": "ESP",
+    "color": "rgb(118,0,0)"
+  },
+  {
+    "id": "CYP",
+    "color": "rgb(119,0,0)"
+  },
+  {
+    "id": "IRQ",
+    "color": "rgb(119,0,0)"
+  },
+  {
+    "id": "DOM",
+    "color": "rgb(119,0,0)"
+  },
+  {
+    "id": "FRA",
+    "color": "rgb(119,0,0)"
+  },
+  {
+    "id": "HUN",
+    "color": "rgb(120,0,0)"
+  },
+  {
+    "id": "RUS",
+    "color": "rgb(120,0,0)"
+  },
+  {
+    "id": "CRI",
+    "color": "rgb(121,0,0)"
+  },
+  {
+    "id": "VCT",
+    "color": "rgb(121,0,0)"
+  },
+  {
+    "id": "DZA",
+    "color": "rgb(124,0,0)"
+  },
+  {
+    "id": "VEN",
+    "color": "rgb(124,0,0)"
+  },
+  {
+    "id": "SVN",
+    "color": "rgb(125,0,0)"
+  },
+  {
+    "id": "CUB",
+    "color": "rgb(126,0,0)"
+  },
+  {
+    "id": "POL",
+    "color": "rgb(126,0,0)"
+  },
+  {
+    "id": "ISR",
+    "color": "rgb(126,0,0)"
+  },
+  {
+    "id": "IRL",
+    "color": "rgb(128,0,0)"
+  },
+  {
+    "id": "SVK",
+    "color": "rgb(128,0,0)"
+  },
+  {
+    "id": "DMA",
+    "color": "rgb(129,0,0)"
+  },
+  {
+    "id": "LTU",
+    "color": "rgb(129,0,0)"
+  },
+  {
+    "id": "IRN",
+    "color": "rgb(130,0,0)"
+  },
+  {
+    "id": "SUR",
+    "color": "rgb(130,0,0)"
+  },
+  {
+    "id": "GRD",
+    "color": "rgb(131,0,0)"
+  },
+  {
+    "id": "ARG",
+    "color": "rgb(131,0,0)"
+  },
+  {
+    "id": "SYC",
+    "color": "rgb(131,0,0)"
+  },
+  {
+    "id": "MLT",
+    "color": "rgb(133,0,0)"
+  },
+  {
+    "id": "URY",
+    "color": "rgb(133,0,0)"
+  },
+  {
+    "id": "CZE",
+    "color": "rgb(134,0,0)"
+  },
+  {
+    "id": "PAN",
+    "color": "rgb(134,0,0)"
+  },
+  {
+    "id": "ZAF",
+    "color": "rgb(134,0,0)"
+  },
+  {
+    "id": "LCA",
+    "color": "rgb(134,0,0)"
+  },
+  {
+    "id": "TUN",
+    "color": "rgb(135,0,0)"
+  },
+  {
+    "id": "JAM",
+    "color": "rgb(136,0,0)"
+  },
+  {
+    "id": "SLB",
+    "color": "rgb(138,0,0)"
+  },
+  {
+    "id": "CHL",
+    "color": "rgb(139,0,0)"
+  },
+  {
+    "id": "PNG",
+    "color": "rgb(139,0,0)"
+  },
+  {
+    "id": "CAN",
+    "color": "rgb(140,0,0)"
+  },
+  {
+    "id": "MEX",
+    "color": "rgb(140,0,0)"
+  },
+  {
+    "id": "GBR",
+    "color": "rgb(140,0,0)"
+  },
+  {
+    "id": "KNA",
+    "color": "rgb(141,0,0)"
+  },
+  {
+    "id": "AUS",
+    "color": "rgb(143,0,0)"
+  },
+  {
+    "id": "EGY",
+    "color": "rgb(144,0,0)"
+  },
+  {
+    "id": "NZL",
+    "color": "rgb(146,0,0)"
+  },
+  {
+    "id": "AND",
+    "color": "rgb(147,0,0)"
+  },
+  {
+    "id": "TUR",
+    "color": "rgb(147,0,0)"
+  },
+  {
+    "id": "JOR",
+    "color": "rgb(152,0,0)"
+  },
+  {
+    "id": "ATG",
+    "color": "rgb(154,0,0)"
+  },
+  {
+    "id": "OMN",
+    "color": "rgb(154,0,0)"
+  },
+  {
+    "id": "TTO",
+    "color": "rgb(155,0,0)"
+  },
+  {
+    "id": "BRB",
+    "color": "rgb(156,0,0)"
+  },
+  {
+    "id": "LBN",
+    "color": "rgb(159,0,0)"
+  },
+  {
+    "id": "LBY",
+    "color": "rgb(165,0,0)"
+  },
+  {
+    "id": "USA",
+    "color": "rgb(168,0,0)"
+  },
+  {
+    "id": "SAU",
+    "color": "rgb(173,0,0)"
+  },
+  {
+    "id": "BHR",
+    "color": "rgb(175,0,0)"
+  },
+  {
+    "id": "VUT",
+    "color": "rgb(177,0,0)"
+  },
+  {
+    "id": "BHS",
+    "color": "rgb(181,0,0)"
+  },
+  {
+    "id": "FJI",
+    "color": "rgb(182,0,0)"
+  },
+  {
+    "id": "FSM",
+    "color": "rgb(186,0,0)"
+  },
+  {
+    "id": "ARE",
+    "color": "rgb(186,0,0)"
+  },
+  {
+    "id": "KWT",
+    "color": "rgb(198,0,0)"
+  },
+  {
+    "id": "TUV",
+    "color": "rgb(201,0,0)"
+  },
+  {
+    "id": "KIR",
+    "color": "rgb(203,0,0)"
+  },
+  {
+    "id": "QAT",
+    "color": "rgb(211,0,0)"
+  },
+  {
+    "id": "MHL",
+    "color": "rgb(214,0,0)"
+  },
+  {
+    "id": "NIU",
+    "color": "rgb(216,0,0)"
+  },
+  {
+    "id": "TON",
+    "color": "rgb(216,0,0)"
+  },
+  {
+    "id": "WSM",
+    "color": "rgb(217,0,0)"
+  },
+  {
+    "id": "NRU",
+    "color": "rgb(228,0,0)"
+  },
+  {
+    "id": "PLW",
+    "color": "rgb(238,0,0)"
+  },
+  {
+    "id": "COK",
+    "color": "rgb(254,0,0)"
+  }
+]
