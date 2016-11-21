@@ -6,4 +6,32 @@
   "id": "seafood_deu",
   "commodity": "seafood",
   "latlng": [50.268322, 10.327867]
+}, {
+  "id": "seafood_swe",
+  "commodity": "seafood",
+  "latlng": [61.330299, 15.011920]
+}, {
+  "id": "seafood_prt",
+  "commodity": "seafood",
+  "latlng": [39.283241, -8.261235]
+}, {
+  "id": "seafood_ita",
+  "commodity": "seafood",
+  "latlng": [42.448203, 13.236548]
+}, {
+  "id": "seafood_ire",
+  "commodity": "seafood",
+  "latlng": [52.920982, -7.302424]
+}, {
+  "id": "seafood_gbr",
+  "commodity": "seafood",
+  "latlng": [53.428531, -0.721187]
+}, {
+  "id": "seafood_fin",
+  "commodity": "seafood",
+  "latlng": [63.393542, 26.362045]
+}, {
+  "id": "seafood_esp",
+  "commodity": "seafood",
+  "latlng": [40.226771, -5.118361]
 }]
