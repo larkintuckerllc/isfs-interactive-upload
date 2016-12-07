@@ -34,4 +34,12 @@
   "id": "seafood_esp",
   "commodity": "seafood",
   "latlng": [40.226771, -5.118361]
+}, {
+  "id": "seafood_usa",
+  "commodity": "seafood",
+  "latlng": [39.081675, -96.253528]
+}, {
+  "id": "seafood_fla",
+  "commodity": "seafood",
+  "latlng": [27.986601, -81.479754]
 }]
