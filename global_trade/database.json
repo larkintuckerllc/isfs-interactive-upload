@@ -3,4 +3,14 @@
   "commodity": "seafood",
   "dst": "USA",
   "latlng": [39.081675, -96.253528]
+}, {
+  "id": "meat_USA",
+  "commodity": "meat",
+  "dst": "USA",
+  "latlng": [44, -96.253528]
+}, {
+  "id": "fruitsandvegetables_USA",
+  "commodity": "fruitsandvegetables",
+  "dst": "USA",
+  "latlng": [46, -96.253528]
 }]
