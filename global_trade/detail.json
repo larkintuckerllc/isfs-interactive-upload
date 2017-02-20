@@ -594,13 +594,6 @@
 "dst":"FRA",
 "value":177653000
 }, {
-"id":"fruitsandvegetables_FRA_UMI",
-"commodityId":"fruitsandvegetables",
-"commodityName":"Fruits and Vegetables",
-"src":"UMI",
-"dst":"FRA",
-"value":154618000
-}, {
 "id":"fruitsandvegetables_FRA_PRT",
 "commodityId":"fruitsandvegetables",
 "commodityName":"Fruits and Vegetables",
