@@ -208,4 +208,403 @@
 "src":"THA",
 "dst":"USA",
 "value":560067000
+}, {
+"id":"seafood_CHN_RUS",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"RUS",
+"dst":"CHN",
+"value":1362413378
+}, {
+"id":"seafood_CHN_USA",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"CHN",
+"value":1279907733
+}, {
+"id":"seafood_CHN_JPN",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"JPN",
+"dst":"CHN",
+"value":730883984
+}, {
+"id":"seafood_CHN_NOR",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"NOR",
+"dst":"CHN",
+"value":580777946
+}, {
+"id":"seafood_CHN_CAN",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CAN",
+"dst":"CHN",
+"value":527880023
+}, {
+"id":"seafood_CHN_NZL",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"NZL",
+"dst":"CHN",
+"value":371565975
+}, {
+"id":"seafood_CHN_IDN",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"IDN",
+"dst":"CHN",
+"value":318903155
+}, {
+"id":"seafood_CHN_THA",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"THA",
+"dst":"CHN",
+"value":293806712
+}, {
+"id":"seafood_CHN_IND",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"IND",
+"dst":"CHN",
+"value":235420936
+}, {
+"id":"meat_CHN_BRA",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"BRA",
+"dst":"CHN",
+"value":1931766000
+}, {
+"id":"meat_CHN_AUS",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"AUS",
+"dst":"CHN",
+"value":1465743000
+}, {
+"id":"meat_CHN_NZL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"NZL",
+"dst":"CHN",
+"value":888915000
+}, {
+"id":"meat_CHN_CAN",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"CAN",
+"dst":"CHN",
+"value":431392000
+}, {
+"id":"meat_CHN_URY",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"URY",
+"dst":"CHN",
+"value":307409000
+}, {
+"id":"meat_CHN_DEU",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"DEU",
+"dst":"CHN",
+"value":293945000
+}, {
+"id":"meat_CHN_ESP",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"ESP",
+"dst":"CHN",
+"value":232373000
+}, {
+"id":"meat_CHN_POL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"POL",
+"dst":"CHN",
+"value":165902000
+}, {
+"id":"meat_CHN_FRA",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"CHN",
+"value":164607000
+}, {
+"id":"fruitsandvegetables_CHN_THA",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"THA",
+"dst":"CHN",
+"value":3168791000
+}, {
+"id":"fruitsandvegetables_CHN_CHL",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHL",
+"dst":"CHN",
+"value":1077079000
+}, {
+"id":"fruitsandvegetables_CHN_VNM",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"VNM",
+"dst":"CHN",
+"value":1041723000
+}, {
+"id":"fruitsandvegetables_CHN_CAN",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CAN",
+"dst":"CHN",
+"value":493420000
+}, {
+"id":"fruitsandvegetables_CHN_PHL",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"PHL",
+"dst":"CHN",
+"value":455735000
+}, {
+"id":"fruitsandvegetables_CHN_ZAF",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"ZAF",
+"dst":"CHN",
+"value":311266000
+}, {
+"id":"fruitsandvegetables_CHN_AUS",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"AUS",
+"dst":"CHN",
+"value":278732000
+}, {
+"id":"fruitsandvegetables_CHN_HKG",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"HKG",
+"dst":"CHN",
+"value":246871000
+}, {
+"id":"fruitsandvegetables_CHN_NZL",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"NZL",
+"dst":"CHN",
+"value":239854000
+}, {
+"id":"seafood_FRA_NOR",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"NOR",
+"dst":"FRA",
+"value":865971685
+}, {
+"id":"seafood_FRA_GBR",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"GBR",
+"dst":"FRA",
+"value":601008929
+}, {
+"id":"seafood_FRA_ESP",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"ESP",
+"dst":"FRA",
+"value":438792340
+}, {
+"id":"seafood_FRA_ECU",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"ECU",
+"dst":"FRA",
+"value":328047706
+}, {
+"id":"seafood_FRA_NLD",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"NLD",
+"dst":"FRA",
+"value":291144390
+}, {
+"id":"seafood_FRA_USA",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"FRA",
+"value":254196180
+}, {
+"id":"seafood_FRA_DNK",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"DNK",
+"dst":"FRA",
+"value":212305394
+}, {
+"id":"seafood_FRA_CHN",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"FRA",
+"value":197746929
+}, {
+"id":"seafood_FRA_POL",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"POL",
+"dst":"FRA",
+"value":189139172
+}, {
+"id":"seafood_FRA_DEU",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"DEU",
+"dst":"FRA",
+"value":166927139
+}, {
+"id":"meat_FRA_ESP",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"ESP",
+"dst":"FRA",
+"value":1354118000
+}, {
+"id":"meat_FRA_DEU",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"DEU",
+"dst":"FRA",
+"value":1111256000
+}, {
+"id":"meat_FRA_NLD",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"NLD",
+"dst":"FRA",
+"value":1008327000
+}, {
+"id":"meat_FRA_BEL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"BEL",
+"dst":"FRA",
+"value":801619000
+}, {
+"id":"meat_FRA_GBR",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"GBR",
+"dst":"FRA",
+"value":482920000
+}, {
+"id":"meat_FRA_ITA",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"ITA",
+"dst":"FRA",
+"value":477322000
+}, {
+"id":"meat_FRA_IRL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"IRL",
+"dst":"FRA",
+"value":456266000
+}, {
+"id":"meat_FRA_POL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"POL",
+"dst":"FRA",
+"value":208234000
+}, {
+"id":"meat_FRA_DNK",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"DNK",
+"dst":"FRA",
+"value":97911000
+}, {
+"id":"meat_FRA_NZL",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"NZL",
+"dst":"FRA",
+"value":77964000
+}, {
+"id":"fruitsandvegetables_FRA_ESP",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"ESP",
+"dst":"FRA",
+"value":3478619000
+}, {
+"id":"fruitsandvegetables_FRA_BEL",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"BEL",
+"dst":"FRA",
+"value":2084597000
+}, {
+"id":"fruitsandvegetables_FRA_NLD",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"NLD",
+"dst":"FRA",
+"value":1607229000
+}, {
+"id":"fruitsandvegetables_FRA_DEU",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"DEU",
+"dst":"FRA",
+"value":921309000
+}, {
+"id":"fruitsandvegetables_FRA_ITA",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"ITA",
+"dst":"FRA",
+"value":883038000
+}, {
+"id":"fruitsandvegetables_FRA_MAR",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"MAR",
+"dst":"FRA",
+"value":725588000
+}, {
+"id":"fruitsandvegetables_FRA_TUR",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"TUR",
+"dst":"FRA",
+"value":277665000
+}, {
+"id":"fruitsandvegetables_FRA_GBR",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"GBR",
+"dst":"FRA",
+"value":177653000
+}, {
+"id":"fruitsandvegetables_FRA_UMI",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"UMI",
+"dst":"FRA",
+"value":154618000
+}, {
+"id":"fruitsandvegetables_FRA_PRT",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"PRT",
+"dst":"FRA",
+"value":149484000
 }]

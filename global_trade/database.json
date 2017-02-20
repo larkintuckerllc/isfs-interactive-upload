@@ -2,15 +2,45 @@
   "id": "seafood_USA",
   "commodity": "seafood",
   "dst": "USA",
-  "latlng": [39.081675, -96.253528]
+  "latlng": [40, -90]
 }, {
   "id": "meat_USA",
   "commodity": "meat",
   "dst": "USA",
-  "latlng": [44, -96.253528]
+  "latlng": [40, -98]
 }, {
   "id": "fruitsandvegetables_USA",
   "commodity": "fruitsandvegetables",
   "dst": "USA",
-  "latlng": [46, -96.253528]
+  "latlng": [40, -106]
+}, {
+  "id": "seafood_CHN",
+  "commodity": "seafood",
+  "dst": "CHN",
+  "latlng": [34, 110]
+}, {
+  "id": "meat_CHN",
+  "commodity": "meat",
+  "dst": "CHN",
+  "latlng": [34, 102]
+}, {
+  "id": "fruitsandvegetables_CHN",
+  "commodity": "fruitsandvegetables",
+  "dst": "CHN",
+  "latlng": [34, 94]
+}, {
+  "id": "seafood_FRA",
+  "commodity": "seafood",
+  "dst": "FRA",
+  "latlng": [47, 11]
+}, {
+  "id": "meat_FRA",
+  "commodity": "meat",
+  "dst": "FRA",
+  "latlng": [47, 3]
+}, {
+  "id": "fruitsandvegetables_FRA",
+  "commodity": "fruitsandvegetables",
+  "dst": "FRA",
+  "latlng": [47, -5]
 }]
