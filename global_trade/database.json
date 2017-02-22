@@ -32,7 +32,7 @@
   "id": "seafood_FRA",
   "commodity": "seafood",
   "dst": "FRA",
-  "latlng": [47, 11]
+  "latlng": [47, 7]
 }, {
   "id": "meat_FRA",
   "commodity": "meat",
@@ -42,22 +42,22 @@
   "id": "fruitsandvegetables_FRA",
   "commodity": "fruitsandvegetables",
   "dst": "FRA",
-  "latlng": [47, -5]
+  "latlng": [47, -1]
 }, {
   "id": "seafood_CAN",
   "commodity": "seafood",
   "dst": "CAN",
-  "latlng": [54, -109]
+  "latlng": [54, -100]
 }, {
   "id": "fruitsandvegetables_CAN",
   "commodity": "fruitsandvegetables",
   "dst": "CAN",
-  "latlng": [54, -100]
+  "latlng": [54, -109]
 }, {
   "id": "seafood_DEU",
   "commodity": "seafood",
   "dst": "DEU",
-  "latlng": [50, 2]
+  "latlng": [50, 14]
 }, {
   "id": "meat_DEU",
   "commodity": "meat",
@@ -67,12 +67,12 @@
   "id": "fruitsandvegetables_DEU",
   "commodity": "fruitsandvegetables",
   "dst": "DEU",
-  "latlng": [50, 18]
+  "latlng": [50, 6]
 }, {
   "id": "seafood_JPN",
   "commodity": "seafood",
   "dst": "JPN",
-  "latlng": [38, 132]
+  "latlng": [38, 144]
 }, {
   "id": "meat_JPN",
   "commodity": "meat",
@@ -82,5 +82,5 @@
   "id": "fruitsandvegetables_JPN",
   "commodity": "fruitsandvegetables",
   "dst": "JPN",
-  "latlng": [38, 148]
+  "latlng": [38, 136]
 }]
