@@ -43,4 +43,44 @@
   "commodity": "fruitsandvegetables",
   "dst": "FRA",
   "latlng": [47, -5]
+}, {
+  "id": "seafood_CAN",
+  "commodity": "seafood",
+  "dst": "CAN",
+  "latlng": [54, -109]
+}, {
+  "id": "fruitsandvegetables_CAN",
+  "commodity": "fruitsandvegetables",
+  "dst": "CAN",
+  "latlng": [54, -100]
+}, {
+  "id": "seafood_DEU",
+  "commodity": "seafood",
+  "dst": "DEU",
+  "latlng": [50, 2]
+}, {
+  "id": "meat_DEU",
+  "commodity": "meat",
+  "dst": "DEU",
+  "latlng": [50, 10]
+}, {
+  "id": "fruitsandvegetables_DEU",
+  "commodity": "fruitsandvegetables",
+  "dst": "DEU",
+  "latlng": [50, 18]
+}, {
+  "id": "seafood_JPN",
+  "commodity": "seafood",
+  "dst": "JPN",
+  "latlng": [38, 132]
+}, {
+  "id": "meat_JPN",
+  "commodity": "meat",
+  "dst": "JPN",
+  "latlng": [38, 140]
+}, {
+  "id": "fruitsandvegetables_JPN",
+  "commodity": "fruitsandvegetables",
+  "dst": "JPN",
+  "latlng": [38, 148]
 }]
