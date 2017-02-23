@@ -1,86 +1,96 @@
 [{
-  "id": "seafood_USA",
-  "commodity": "seafood",
+  "id": "fruitsandvegetables_USA",
+  "commodity": "fruitsandvegetables",
   "dst": "USA",
-  "latlng": [40, -90]
+  "latlng": [40, -106]
 }, {
   "id": "meat_USA",
   "commodity": "meat",
   "dst": "USA",
   "latlng": [40, -98]
 }, {
-  "id": "fruitsandvegetables_USA",
-  "commodity": "fruitsandvegetables",
-  "dst": "USA",
-  "latlng": [40, -106]
-}, {
-  "id": "seafood_CHN",
+  "id": "seafood_USA",
   "commodity": "seafood",
-  "dst": "CHN",
-  "latlng": [34, 110]
-}, {
-  "id": "meat_CHN",
-  "commodity": "meat",
-  "dst": "CHN",
-  "latlng": [34, 102]
+  "dst": "USA",
+  "latlng": [40, -90]
 }, {
   "id": "fruitsandvegetables_CHN",
   "commodity": "fruitsandvegetables",
   "dst": "CHN",
   "latlng": [34, 94]
 }, {
-  "id": "seafood_FRA",
-  "commodity": "seafood",
-  "dst": "FRA",
-  "latlng": [47, 7]
-}, {
-  "id": "meat_FRA",
+  "id": "meat_CHN",
   "commodity": "meat",
-  "dst": "FRA",
-  "latlng": [47, 3]
+  "dst": "CHN",
+  "latlng": [34, 102]
+}, {
+  "id": "seafood_CHN",
+  "commodity": "seafood",
+  "dst": "CHN",
+  "latlng": [34, 110]
+}, {
+  "id": "wheat_CHN",
+  "commodity": "wheat",
+  "dst": "CHN",
+  "latlng": [34, 118]
 }, {
   "id": "fruitsandvegetables_FRA",
   "commodity": "fruitsandvegetables",
   "dst": "FRA",
   "latlng": [47, -1]
 }, {
-  "id": "seafood_CAN",
+  "id": "meat_FRA",
+  "commodity": "meat",
+  "dst": "FRA",
+  "latlng": [47, 3]
+}, {
+  "id": "seafood_FRA",
   "commodity": "seafood",
-  "dst": "CAN",
-  "latlng": [54, -100]
+  "dst": "FRA",
+  "latlng": [47, 7]
 }, {
   "id": "fruitsandvegetables_CAN",
   "commodity": "fruitsandvegetables",
   "dst": "CAN",
   "latlng": [54, -109]
 }, {
-  "id": "seafood_DEU",
+  "id": "seafood_CAN",
   "commodity": "seafood",
-  "dst": "DEU",
-  "latlng": [50, 14]
-}, {
-  "id": "meat_DEU",
-  "commodity": "meat",
-  "dst": "DEU",
-  "latlng": [50, 10]
+  "dst": "CAN",
+  "latlng": [54, -100]
 }, {
   "id": "fruitsandvegetables_DEU",
   "commodity": "fruitsandvegetables",
   "dst": "DEU",
   "latlng": [50, 6]
 }, {
-  "id": "seafood_JPN",
+  "id": "meat_DEU",
+  "commodity": "meat",
+  "dst": "DEU",
+  "latlng": [50, 10]
+}, {
+  "id": "seafood_DEU",
   "commodity": "seafood",
+  "dst": "DEU",
+  "latlng": [50, 14]
+}, {
+  "id": "fruitsandvegetables_JPN",
+  "commodity": "fruitsandvegetables",
   "dst": "JPN",
-  "latlng": [38, 144]
+  "latlng": [38, 136]
 }, {
   "id": "meat_JPN",
   "commodity": "meat",
   "dst": "JPN",
   "latlng": [38, 140]
 }, {
-  "id": "fruitsandvegetables_JPN",
-  "commodity": "fruitsandvegetables",
+  "id": "seafood_JPN",
+  "commodity": "seafood",
   "dst": "JPN",
-  "latlng": [38, 136]
+  "latlng": [38, 144]
+}, {
+  "id": "wheat_JPN",
+  "commodity": "wheat",
+  "dst": "JPN",
+  "latlng": [38, 148]
 }]

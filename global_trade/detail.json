@@ -1181,4 +1181,144 @@
 "src":"PER",
 "dst":"CAN",
 "value":118203000
+}, {
+"id":"wheat_CHN_USA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"CHN",
+"value":1656580000
+}, {
+"id":"wheat_CHN_CAN",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"CAN",
+"dst":"CHN",
+"value":334557000
+}, {
+"id":"wheat_CHN_AUS",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"AUS",
+"dst":"CHN",
+"value":295486000
+}, {
+"id":"wheat_CHN_FRA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"CHN",
+"value":35724000
+}, {
+"id":"wheat_CHN_JPN",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"JPN",
+"dst":"CHN",
+"value":29973000
+}, {
+"id":"wheat_CHN_KAZ",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"KAZ",
+"dst":"CHN",
+"value":25870000
+}, {
+"id":"wheat_CHN_IND",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"IND",
+"dst":"CHN",
+"value":16510000
+}, {
+"id":"wheat_CHN_UKR",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"UKR",
+"dst":"CHN",
+"value":9039000
+}, {
+"id":"wheat_CHN_VNM",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"VNM",
+"dst":"CHN",
+"value":5093000
+}, {
+"id":"wheat_CHN_LKA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"LKA",
+"dst":"CHN",
+"value":3824000
+}, {
+"id":"wheat_JPN_USA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"JPN",
+"value":1174569000
+}, {
+"id":"wheat_JPN_CAN",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"CAN",
+"dst":"JPN",
+"value":624561000
+}, {
+"id":"wheat_JPN_AUS",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"AUS",
+"dst":"JPN",
+"value":382315000
+}, {
+"id":"wheat_JPN_UKR",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"UKR",
+"dst":"JPN",
+"value":76134000
+}, {
+"id":"wheat_JPN_ROU",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"ROU",
+"dst":"JPN",
+"value":14153000
+}, {
+"id":"wheat_JPN_FRA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"JPN",
+"value":5445000
+}, {
+"id":"wheat_JPN_SRB",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"SRB",
+"dst":"JPN",
+"value":3284000
+}, {
+"id":"wheat_JPN_ITA",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"ITA",
+"dst":"JPN",
+"value":2137000
+}, {
+"id":"wheat_JPN_RUS",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"RUS",
+"dst":"JPN",
+"value":256000
+}, {
+"id":"wheat_JPN_DEU",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"DEU",
+"dst":"JPN",
+"value":128000
 }]
