@@ -1590,4 +1590,244 @@
 "src":"USA",
 "dst":"GBR",
 "value":414111000
+}, {
+"id":"export_meat_JPN_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"JPN",
+"value":3192843000
+}, {
+"id":"export_meat_MEX_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"MEX",
+"value":2909813000
+}, {
+"id":"export_meat_CAN_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"CAN",
+"value":2763797000
+}, {
+"id":"export_meat_CHN_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"CHN",
+"value":2477961000
+}, {
+"id":"export_meat_QAT_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"QAT",
+"value":914018000
+}, {
+"id":"export_meat_RUS_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"RUS",
+"value":327275000
+}, {
+"id":"export_meat_AGO_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"AGO",
+"value":242125000
+}, {
+"id":"export_meat_PHL_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"PHL",
+"value":229883000
+}, {
+"id":"export_meat_CHL_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"CHL",
+"value":182563000
+}, {
+"id":"export_meat_AUS_USA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"USA",
+"dst":"AUS",
+"value":171175000
+}, {
+"id":"export_seafood_CHN_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"CHN",
+"value":1114416788
+}, {
+"id":"export_seafood_CAN_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"CAN",
+"value":962759189
+}, {
+"id":"export_seafood_JPN_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"JPN",
+"value":693752884
+}, {
+"id":"export_seafood_HKG_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"HKG",
+"value":428927573
+}, {
+"id":"export_seafood_DEU_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"DEU",
+"value":312869562
+}, {
+"id":"export_seafood_HND_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"HND",
+"value":201839880
+}, {
+"id":"export_seafood_NLD_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"NLD",
+"value":165685917
+}, {
+"id":"export_seafood_FRA_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"FRA",
+"value":144937535
+}, {
+"id":"export_seafood_GBR_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"GBR",
+"value":133636832
+}, {
+"id":"export_seafood_UKR_USA",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"USA",
+"dst":"UKR",
+"value":117790670
+}, {
+"id":"export_wheat_CHN_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"CHN",
+"value":1694735000
+}, {
+"id":"export_wheat_BRA_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"BRA",
+"value":1245358000
+}, {
+"id":"export_wheat_JPN_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"JPN",
+"value":1029144000
+}, {
+"id":"export_wheat_NGA_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"NGA",
+"value":959001000
+}, {
+"id":"export_wheat_MEX_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"MEX",
+"value":956453000
+}, {
+"id":"export_wheat_PHL_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"PHL",
+"value":631963000
+}, {
+"id":"export_wheat_EGY_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"EGY",
+"value":510405000
+}, {
+"id":"export_wheat_QAT_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"QAT",
+"value":341929000
+}, {
+"id":"export_wheat_ITA_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"ITA",
+"value":242324000
+}, {
+"id":"export_wheat_COL_USA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"USA",
+"dst":"COL",
+"value":228348000
 }]

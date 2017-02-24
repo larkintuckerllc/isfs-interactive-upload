@@ -17,11 +17,29 @@
   "dst": "USA",
   "latlng": [40, -98]
 }, {
+  "id": "export_meat_USA",
+  "direction": "export",
+  "commodity": "meat",
+  "dst": "USA",
+  "latlng": [32, -98]
+}, {
   "id": "import_seafood_USA",
   "direction": "import",
   "commodity": "seafood",
   "dst": "USA",
   "latlng": [40, -90]
+}, {
+  "id": "export_seafood_USA",
+  "direction": "export",
+  "commodity": "seafood",
+  "dst": "USA",
+  "latlng": [32, -90]
+}, {
+  "id": "export_wheat_USA",
+  "direction": "export",
+  "commodity": "wheat",
+  "dst": "USA",
+  "latlng": [32, -82]
 }, {
   "id": "import_fruitsandvegetables_CHN",
   "direction": "import",
