@@ -1830,4 +1830,396 @@
 "src":"USA",
 "dst":"COL",
 "value":228348000
+}, {
+"id":"export_seafood_JPN_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"JPN",
+"value":3771921561
+}, {
+"id":"export_seafood_USA_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"USA",
+"value":3100127104
+}, {
+"id":"export_seafood_HKG_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"HKG",
+"value":1379208322
+}, {
+"id":"export_seafood_MYS_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"MYS",
+"value":749387789
+}, {
+"id":"export_seafood_RUS_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"RUS",
+"value":640457824
+}, {
+"id":"export_seafood_THA_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"THA",
+"value":624614223
+}, {
+"id":"export_seafood_DEU_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"DEU",
+"value":497049615
+}, {
+"id":"export_seafood_MEX_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"MEX",
+"value":411086700
+}, {
+"id":"export_seafood_CAN_CHN",
+"direction": "export",
+"commodityId":"seafood",
+"commodityName":"Seafood",
+"src":"CHN",
+"dst":"CAN",
+"value":365554309
+}, {
+"id":"export_fruitsandvegetables_JPN_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"JPN",
+"value":3058881000
+}, {
+"id":"export_fruitsandvegetables_USA_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"USA",
+"value":1414471000
+}, {
+"id":"export_fruitsandvegetables_VNM_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"VNM",
+"value":1379463000
+}, {
+"id":"export_fruitsandvegetables_THA_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"THA",
+"value":1065502000
+}, {
+"id":"export_fruitsandvegetables_MYS_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"MYS",
+"value":1004510000
+}, {
+"id":"export_fruitsandvegetables_KOR_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"KOR",
+"value":962703000
+}, {
+"id":"export_fruitsandvegetables_RUS_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"RUS",
+"value":873147000
+}, {
+"id":"export_fruitsandvegetables_IDN_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"IDN",
+"value":750400000
+}, {
+"id":"export_fruitsandvegetables_DEU_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"DEU",
+"value":468688000
+}, {
+"id":"export_fruitsandvegetables_BRA_CHN",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"CHN",
+"dst":"BRA",
+"value":423674000
+}, {
+"id":"export_meat_ITA_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"ITA",
+"value":981547000
+}, {
+"id":"export_meat_DEU_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"DEU",
+"value":626566000
+}, {
+"id":"export_meat_BEL_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"BEL",
+"value":481564000
+}, {
+"id":"export_meat_GRC_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"GRC",
+"value":384028000
+}, {
+"id":"export_meat_GBR_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"GBR",
+"value":325242000
+}, {
+"id":"export_meat_SAU_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"SAU",
+"value":316030000
+}, {
+"id":"export_meat_ESP_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"ESP",
+"value":278178000
+}, {
+"id":"export_meat_NLD_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"NLD",
+"value":164003000
+}, {
+"id":"export_meat_RUS_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"RUS",
+"value":110030000
+}, {
+"id":"export_meat_CHE_FRA",
+"direction": "export",
+"commodityId":"meat",
+"commodityName":"Meat",
+"src":"FRA",
+"dst":"CHE",
+"value":87731000
+}, {
+"id":"export_fruitsandvegetables_DEU_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"DEU",
+"value":1057401000
+}, {
+"id":"export_fruitsandvegetables_BEL_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"BEL",
+"value":844338000
+}, {
+"id":"export_fruitsandvegetables_GBR_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"GBR",
+"value":729174000
+}, {
+"id":"export_fruitsandvegetables_ESP_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"ESP",
+"value":721461000
+}, {
+"id":"export_fruitsandvegetables_ITA_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"ITA",
+"value":707635000
+}, {
+"id":"export_fruitsandvegetables_NLD_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"NLD",
+"value":387299000
+}, {
+"id":"export_fruitsandvegetables_CHE_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"CHE",
+"value":380135000
+}, {
+"id":"export_fruitsandvegetables_PRT_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"PRT",
+"value":130029000
+}, {
+"id":"export_fruitsandvegetables_USA_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"USA",
+"value":122218000
+}, {
+"id":"export_fruitsandvegetables_CZE_FRA",
+"direction": "export",
+"commodityId":"fruitsandvegetables",
+"commodityName":"Fruits and Vegetables",
+"src":"FRA",
+"dst":"CZE",
+"value":101430000
+}, {
+"id":"export_wheat_DZA_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"DZA",
+"value":1436882000
+}, {
+"id":"export_wheat_BEL_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"BEL",
+"value":604342000
+}, {
+"id":"export_wheat_NLD_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"NLD",
+"value":547183000
+}, {
+"id":"export_wheat_ITA_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"ITA",
+"value":516100000
+}, {
+"id":"export_wheat_ESP_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"ESP",
+"value":385177000
+}, {
+"id":"export_wheat_MAR_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"MAR",
+"value":365569000
+}, {
+"id":"export_wheat_GBR_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"GBR",
+"value":261764000
+}, {
+"id":"export_wheat_PRT_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"PRT",
+"value":190172000
+}, {
+"id":"export_wheat_DEU_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"DEU",
+"value":177671000
+}, {
+"id":"export_wheat_CIV_FRA",
+"direction": "export",
+"commodityId":"wheat",
+"commodityName":"Wheat",
+"src":"FRA",
+"dst":"CIV",
+"value":165606000
 }]

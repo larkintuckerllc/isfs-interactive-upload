@@ -47,6 +47,12 @@
   "dst": "CHN",
   "latlng": [34, 94]
 }, {
+  "id": "export_fruitsandvegetables_CHN",
+  "direction": "export",
+  "commodity": "fruitsandvegetables",
+  "dst": "CHN",
+  "latlng": [26, 94]
+}, {
   "id": "import_meat_CHN",
   "direction": "import",
   "commodity": "meat",
@@ -58,6 +64,12 @@
   "commodity": "seafood",
   "dst": "CHN",
   "latlng": [34, 110]
+}, {
+  "id": "export_seafood_CHN",
+  "direction": "export",
+  "commodity": "seafood",
+  "dst": "CHN",
+  "latlng": [26, 110]
 }, {
   "id": "import_wheat_CHN",
   "direction": "import",
@@ -71,17 +83,35 @@
   "dst": "FRA",
   "latlng": [47, -1]
 }, {
+  "id": "export_fruitsandvegetables_FRA",
+  "direction": "export",
+  "commodity": "fruitsandvegetables",
+  "dst": "FRA",
+  "latlng": [43, -1]
+}, {
   "id": "import_meat_FRA",
   "direction": "import",
   "commodity": "meat",
   "dst": "FRA",
   "latlng": [47, 3]
 }, {
+  "id": "export_meat_FRA",
+  "direction": "export",
+  "commodity": "meat",
+  "dst": "FRA",
+  "latlng": [43, 3]
+}, {
   "id": "import_seafood_FRA",
   "direction": "import",
   "commodity": "seafood",
   "dst": "FRA",
   "latlng": [47, 7]
+}, {
+  "id": "export_wheat_FRA",
+  "direction": "export",
+  "commodity": "wheat",
+  "dst": "FRA",
+  "latlng": [43,11]
 }, {
   "id": "import_fruitsandvegetables_CAN",
   "direction": "import",
