@@ -2615,12 +2615,12 @@
 "dst":"FRA",
 "value":53614363
 }, {
-"id":"export_seafood_HKG_CAN",
+"id":"export_seafood_KOR_CAN",
 "direction": "export",
 "commodityId":"seafood",
 "commodityName":"Seafood",
 "src":"CAN",
-"dst":"HKG",
+"dst":"KOR",
 "value":41545009
 }, {
 "id":"export_wheat_USA_CAN",
