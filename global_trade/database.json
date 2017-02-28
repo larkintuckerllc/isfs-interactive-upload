@@ -117,7 +117,7 @@
   "direction": "import",
   "commodity": "fruitsandvegetables",
   "dst": "CAN",
-  "latlng": [54, -109]
+  "latlng": [54, -108]
 }, {
   "id": "import_seafood_CAN",
   "direction": "import",
@@ -125,11 +125,29 @@
   "dst": "CAN",
   "latlng": [54, -100]
 }, {
+  "id": "export_seafood_CAN",
+  "direction": "export",
+  "commodity": "seafood",
+  "dst": "CAN",
+  "latlng": [46, -100]
+}, {
+  "id": "export_wheat_CAN",
+  "direction": "export",
+  "commodity": "wheat",
+  "dst": "CAN",
+  "latlng": [46, -92]
+}, {
   "id": "import_fruitsandvegetables_DEU",
   "direction": "import",
   "commodity": "fruitsandvegetables",
   "dst": "DEU",
   "latlng": [50, 6]
+}, {
+  "id": "export_fruitsandvegetables_DEU",
+  "direction": "export",
+  "commodity": "fruitsandvegetables",
+  "dst": "DEU",
+  "latlng": [46, 6]
 }, {
   "id": "import_meat_DEU",
   "direction": "import",
@@ -137,11 +155,29 @@
   "dst": "DEU",
   "latlng": [50, 10]
 }, {
+  "id": "export_meat_DEU",
+  "direction": "export",
+  "commodity": "meat",
+  "dst": "DEU",
+  "latlng": [46, 10]
+}, {
   "id": "import_seafood_DEU",
   "direction": "import",
   "commodity": "seafood",
   "dst": "DEU",
   "latlng": [50, 14]
+}, {
+  "id": "export_seafood_DEU",
+  "direction": "export",
+  "commodity": "seafood",
+  "dst": "DEU",
+  "latlng": [46, 14]
+}, {
+  "id": "export_wheat_DEU",
+  "direction": "export",
+  "commodity": "wheat",
+  "dst": "DEU",
+  "latlng": [46, 18]
 }, {
   "id": "import_fruitsandvegetables_JPN",
   "direction": "import",
